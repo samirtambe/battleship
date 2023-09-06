@@ -1,7 +1,5 @@
 # BattleShip
-
-## Overview
-A command prompt battleship game.  User can specify the number of ships and the board size.  You play against the PC.
+A command prompt battleship game.
 
 By Samir Tambe
 
